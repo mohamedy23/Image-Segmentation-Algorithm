@@ -1,4 +1,4 @@
-# Image-Segmentation-Algorithm
+# Image-Segmentation-Algorithm  
 
 * Clustering algorithms: Implementation of K-Means clustering.
 * Pixel-level features: Implementation of a feature vector that combines color and position information and implement feature normalization.
